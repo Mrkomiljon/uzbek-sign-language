@@ -6,6 +6,11 @@ The data set is a collection of images of alphabets from Uzbek Sign Language, se
 # Content
 > The training data set contains 2800 images which are around 600x500 pixels. There are 28 classes, with the letters A-Z.
 
+### Purpose
+The purpose of the work is to create a program that recognizes all the letters of the Uzbek alphabet. 
+In this work, a program was created that recognizes the letters O' and G' of the Uzbek alphabet.
+The advantages of the work is that it can detect both hands in real-time.
+Used tools: OpenCV, Mediapipe.
 ![O'](https://user-images.githubusercontent.com/92161283/218792321-cbdf80fe-d2cc-4789-bfd5-ff7e88dedef9.PNG)
 ![G'1](https://user-images.githubusercontent.com/92161283/218791702-e30199b4-b779-42c1-a82c-a2e016e46e69.PNG)
 
