@@ -6,7 +6,7 @@ The data set is a collection of images of alphabets from Uzbek Sign Language, se
 # Content
 > The training data set contains 2800 images which are around 600x500 pixels. There are 28 classes, with the letters A-Z.
 
-            ![ezgif com-gif-maker](https://user-images.githubusercontent.com/92161283/218797176-2ab01c91-9593-49c5-b756-6cfa476d5100.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/92161283/218797176-2ab01c91-9593-49c5-b756-6cfa476d5100.gif)
 
 ### Purpose
 The purpose of the work is to create a program that recognizes all the letters of the Uzbek alphabet. 
