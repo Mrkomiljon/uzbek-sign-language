@@ -1,4 +1,7 @@
 # uzbek-sign-language
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/92161283/218797176-2ab01c91-9593-49c5-b756-6cfa476d5100.gif)
+
+
 ## What is uzbek sign language?
 ![Uzbek_latin_alphabet_letters](https://user-images.githubusercontent.com/92161283/218792939-8dc8e995-7b41-48ab-8e99-99e7c8845f2a.png)
 # About data
