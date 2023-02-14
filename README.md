@@ -1,5 +1,7 @@
 # uzbek-sign-language
-
+<p align="center">
+  <img width="460" height="300" ![ezgif com-gif-maker](https://user-images.githubusercontent.com/92161283/218797176-2ab01c91-9593-49c5-b756-6cfa476d5100.gif)>
+</p>
  ![ezgif com-gif-maker](https://user-images.githubusercontent.com/92161283/218797176-2ab01c91-9593-49c5-b756-6cfa476d5100.gif)
 
 ## What is uzbek sign language?
