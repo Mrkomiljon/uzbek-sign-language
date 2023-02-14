@@ -20,8 +20,7 @@ In this work, a program was created that recognizes the letters O' and G' of the
 The advantages of the work is that it can detect both hands in real-time.
 Used tools: OpenCV, Mediapipe.
 
-![O'](https://user-images.githubusercontent.com/92161283/218792321-cbdf80fe-d2cc-4789-bfd5-ff7e88dedef9.PNG)
-![G'1](https://user-images.githubusercontent.com/92161283/218791702-e30199b4-b779-42c1-a82c-a2e016e46e69.PNG)
+![O'](https://user-images.githubusercontent.com/92161283/218792321-cbdf80fe-d2cc-4789-bfd5-ff7e88dedef9.PNG) ![G'1](https://user-images.githubusercontent.com/92161283/218791702-e30199b4-b779-42c1-a82c-a2e016e46e69.PNG)
 
 
 
